@@ -9,7 +9,7 @@ import streamlit as st
 
 @st.cache_resource
 def load_detector():
-    return FER(mtcnn=True)
+    return FER()
 
 
 detector = load_detector()
