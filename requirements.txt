@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+transformers
+torch
+opencv-python-headless
+Pillow
+streamlit-webrtc
+SpeechRecognition
+sounddevice
+av

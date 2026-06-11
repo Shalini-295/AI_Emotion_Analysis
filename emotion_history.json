@@ -1,0 +1,41 @@
+[
+    {
+        "name": "shalini",
+        "user_id": "AS433",
+        "time": "2026-06-10 14:47:32",
+        "text_emotion": "optimism",
+        "face_emotion": "neutral",
+        "final_emotion": "optimism",
+        "snapshot": "history_faces/20260610_144731.jpg"
+    },
+    {
+        "name": "asdff",
+        "user_id": "1235",
+        "time": "2026-06-10 16:05:04",
+        "text_emotion": "optimism",
+        "face_emotion": "neutral",
+        "voice_emotion": "joy",
+        "final_emotion": "optimism",
+        "snapshot": "history_faces/20260610_160504.jpg"
+    },
+    {
+        "name": "asdff",
+        "user_id": "1235",
+        "time": "2026-06-10 16:05:05",
+        "text_emotion": "optimism",
+        "face_emotion": "neutral",
+        "voice_emotion": "joy",
+        "final_emotion": "optimism",
+        "snapshot": "history_faces/20260610_160505.jpg"
+    },
+    {
+        "name": "shalu",
+        "user_id": "2345",
+        "time": "2026-06-10 22:55:51",
+        "text_emotion": "sadness",
+        "face_emotion": "sad",
+        "voice_emotion": "sadness",
+        "final_emotion": "sadness",
+        "snapshot": "history_faces/20260610_225551.jpg"
+    }
+]
