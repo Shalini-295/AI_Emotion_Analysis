@@ -12,3 +12,4 @@ streamlit-webrtc
 SpeechRecognition
 sounddevice
 av
+fer
