@@ -13,3 +13,5 @@ SpeechRecognition
 sounddevice
 av
 fer
+tensorflow
+mtcnn
